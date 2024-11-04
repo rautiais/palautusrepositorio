@@ -46,3 +46,8 @@ class TestStatisticsService(unittest.TestCase):
         players = self.stats.top(3, SortBy.POINTS)
         names = [player.name for player in players] 
         self.assertListEqual(names, ['Gretzky', 'Lemieux', 'Yzerman'])
+
+    def test_muut_vaihtoehdot(self):
+        players = self.stats.top(3, 100)
+        names = [player.name for player in players]
+        self.assertListEqual(names, ['Gretzky', 'Lemieux', 'Yzerman'])
