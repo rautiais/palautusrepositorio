@@ -15,7 +15,7 @@ def main():
             player = Player(player_dict)
             players.append(player)
 
-    print("Players from FIN:")
+    print("Players from FIN:\n")
 
     for player in players:
         print(player)
