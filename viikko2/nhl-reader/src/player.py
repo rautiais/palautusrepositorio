@@ -5,6 +5,7 @@ class Player:
         self.goals = dict['goals']
         self.assists = dict['assists']
         self.nationality = dict['nationality']
+        self.season = ['season']
 
     def all_points(self):
         return self.goals + self.assists
