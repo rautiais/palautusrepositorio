@@ -1,5 +1,6 @@
 *** Settings ***
 Resource  resource.robot
+Resource    login.robot
 Suite Setup     Open And Configure Browser
 Suite Teardown  Close Browser
 Test Setup      Reset Application Create User And Go To Register Page
@@ -48,6 +49,28 @@ Register With Username That Is Already In Use
     Submit Information
     Register Should Fail With Message  This username is already taken
 
+Login After Successful Registration
+    Set Username  salaatti
+    Set Password  salde987
+    Set Password Confirmation  salde987
+    Submit Information
+    Go To Login Page
+    Set Username  salaatti
+    Set Password  salde987
+    Submit Credentials
+    Main Page Should Be Open
+
+Login After Failed Registration
+    Set Username  salaatti
+    Set Password  salde987
+    Set Password Confirmation  salde987
+    Submit Information
+    Go To Login Page
+    Set Username  salaatti
+    Set Password  salde9878
+    Submit Credentials
+    Login Should Fail With Message  Invalid username or password
+
 *** Keywords ***
 Reset Application Create User And Go To Register Page
     Reset Application
@@ -75,4 +98,17 @@ Register Should Succeed
 Register Should Fail With Message
     [Arguments]  ${message}
     Register Page Should Be Open
+    Page Should Contain  ${message}
+
+Create User And Go To Register Page
+    Create User    kalle    kalle123
+    Go To Register Page
+    Register Page Should Be Open
+
+Submit Credentials
+    Click Button    Login
+
+Login Should Fail With Message
+    [Arguments]  ${message}
+    Login Page Should Be Open
     Page Should Contain  ${message}
