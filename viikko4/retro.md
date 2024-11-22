@@ -1,0 +1,5 @@
+On olemassa monia eri retrospektiivitekniikoita, joiden avulla pyritään saamaan tiimin työntekijöiltä palautetta kuluneesta projektista tai projektin osasta. Palautteen perusteella voidaan muokata tulevaisuuden toimintatapoja.
+
+"Start, Stop, Continue, More of, Less of Wheel"-tekniikassa käytetään viiteen aiheeseen jaettua pyörää, jonka avulla tiimin jäsenet voivat antaa vapaamuotoista palautetta kuluneesta sprintistä tai vaikka koko projektista. Jokaisesta aiheesta voi kysyä kysymyksiä ja kysymysten perusteella voidaan pohtia pyörän eri lohkoja eli esimerkiksi mikä on aiemmin toiminut, mitä kannattaa jatkaa tai lopettaa, mitä kannattaa tehdä enemmän ja mitä vähemmän. Yleisesti tämä tekniikka on suhteellisin lyhyt ja ytimekäs.
+
+"Glad, Sad, Mad"-tekniikassa jokainen tiimin jäsen listaa sprintissä tapahtuneita ongelmia, muutoksia ja havaintoja ja nämä muistiinpanot jaetaan kolmeen kategoriaan: iloinen, surullinen ja vihainen. Tämän jälkeen äänestetään ne muistiinpanot, joista halutaan jutella enemmän. Prosessi kestää enintään tunnin ja käsittelee asioita enemmän laajasti kuin syventyneesti.
