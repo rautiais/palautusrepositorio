@@ -1,0 +1,3 @@
+Luin Eero Laineen kandidaattityön "Johtaminen perinteisissä ja ketterissä ohjelmistotuotantoprojekteissa" ja tässä lyhyt referaatti työstä.
+
+Laine pohtii kandidaattityössään johtamista perinteisissä ja ketterissä ohjelmistoprojekteissa. Erot perinteisen ja ketterän kehityksen välillä ovat huomattavat niin suunnitteluprosessin, tavoitteiden, lähestymistavan, näkemyksen toimintaympäristöstä ja ominaispiirteiden puolesta. Yksi isoista eroista on, että ketterän kehityksen omi
