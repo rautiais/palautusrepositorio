@@ -1,3 +1,7 @@
-Luin Eero Laineen kandidaattityön "Johtaminen perinteisissä ja ketterissä ohjelmistotuotantoprojekteissa" ja tässä lyhyt referaatti työstä.
+Luin Eero Laineen kandidaattityön "[Johtaminen perinteisissä ja ketterissä ohjelmistotuotantoprojekteissa](https://www.cs.helsinki.fi/u/mluukkai/ohtu/laine-kandi.pdf)" ja tässä lyhyt referaatti työstä.
 
-Laine pohtii kandidaattityössään johtamista perinteisissä ja ketterissä ohjelmistoprojekteissa. Erot perinteisen ja ketterän kehityksen välillä ovat huomattavat niin suunnitteluprosessin, tavoitteiden, lähestymistavan, näkemyksen toimintaympäristöstä ja ominaispiirteiden puolesta. Yksi isoista eroista on, että ketterän kehityksen omi
+Laine pohtii kandidaattityössään johtamista perinteisissä ja ketterissä ohjelmistoprojekteissa. Erot perinteisen ja ketterän kehityksen välillä ovat huomattavat niin suunnitteluprosessin, tavoitteiden, lähestymistavan, näkemyksen toimintaympäristöstä ja ominaispiirteiden puolesta. Yksi isoista eroista on, että ketterän kehityksen ominaisuuksina ovat sopeutuminen sekä kommunikaatio ja yhteistyö, kun taas perinteisen kehityksessä tavoitteena on optimoida ja tehdä aluksi tarkat etukäteissuunnitelmat sekä pitää kontrollia.
+
+Isona erona näiden kahden mallin välillä on myös se, että perinteisissä menetelmissä projektipäälikön rooli on keskitetty, kun taas ketterissä menetelmissä johtamisvastuu on hajautettu projektitiimin eri jäsenille. Lisäksi asiakas on enemmän mukana kehityksessä ketterissä menetelmissä kuin perinteisissä menetelmissä. 
+
+Ketterissä menetelmissä tiimin jäsenten roolit eivät ole niin tarkkaan jaettuja tai rajattuja vaan ne voivat vaihdella projektin aikana ja roolit jaetaan oma-aloitteisesti tiimin kesken. Perinteisissä menetelmissä rooli- ja työnjako on selkeämpää ja voi perustua esimerkiksi virkaikään ja kokemukseen.
